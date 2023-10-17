@@ -7,7 +7,7 @@ job :
     -published at
     -vacancy
     -salary
-    -catigory
+    -category
     -experiance
 
     -apply for a job
